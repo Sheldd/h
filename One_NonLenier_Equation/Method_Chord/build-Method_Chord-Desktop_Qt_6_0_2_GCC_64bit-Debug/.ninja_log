@@ -1,0 +1,5 @@
+# ninja log v5
+0	44	1621067620925958318	Method_Chord_autogen/timestamp	8682a3374d721ef6
+44	105	1621067620985968271	CMakeFiles/Method_Chord.dir/Method_Chord_autogen/mocs_compilation.cpp.o	4ee865a19c5ffded
+44	2642	1621067623522340523	CMakeFiles/Method_Chord.dir/main.cpp.o	c97d83ec2349437b
+2643	2881	1621067623758372239	Method_Chord	e9a8d953d89f6b78

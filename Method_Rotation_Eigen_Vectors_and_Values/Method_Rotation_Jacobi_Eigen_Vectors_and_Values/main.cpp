@@ -101,7 +101,7 @@ for(int j=0;j<n;j++)
     cout<<"Eigen Value = "<<A.get(j,j)<<endl<<"Eigen vector = {  ";
     for(int i=0;i<n;i++)
     {
-        cout<<S.get(i,j)<<"  ";
+        cout<<A.get(i,j)<<"  ";
     }
     cout<<"}"<<endl<<endl;
 }

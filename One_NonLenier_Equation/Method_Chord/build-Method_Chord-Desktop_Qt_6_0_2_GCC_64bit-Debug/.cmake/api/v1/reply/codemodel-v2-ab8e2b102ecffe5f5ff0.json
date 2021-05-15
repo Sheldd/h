@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Method_Chord",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_Chord::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_Chord-Debug-95f3c99ba887fa024eb2.json",
+					"name" : "Method_Chord",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_Chord_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_Chord_autogen-Debug-3851743d81c2754179eb.json",
+					"name" : "Method_Chord_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_Chord_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_Chord_autogen_timestamp_deps-Debug-25efecc64813c5f1c2f8.json",
+					"name" : "Method_Chord_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/shelkovkin/h/One_NonLenier_Equation/Method_Chord/build-Method_Chord-Desktop_Qt_6_0_2_GCC_64bit-Debug",
+		"source" : "/home/user/shelkovkin/h/One_NonLenier_Equation/Method_Chord/Method_Chord"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
