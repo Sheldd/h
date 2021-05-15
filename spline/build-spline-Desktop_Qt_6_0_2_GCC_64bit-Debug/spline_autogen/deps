@@ -1,0 +1,55 @@
+spline_autogen/timestamp: \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/Qt6Config.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/Qt6Targets.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/QtFeature.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6/QtFeatureCommon.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
+	/home/user/Qt/6.0.2/gcc_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeFindDependencyMacro.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeParseArguments.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCXXCompilerFlag.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCXXSourceCompiles.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckIncludeFileCXX.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckLibraryExists.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU-CXX.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/FindThreads.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CheckCompilerFlag.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CheckSourceCompiles.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU-CXX.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux.cmake \
+	/home/user/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/UnixPaths.cmake \
+	/home/user/Численные\ методы/spline/build-spline-Desktop_Qt_6_0_2_GCC_64bit-Debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake \
+	/home/user/Численные\ методы/spline/build-spline-Desktop_Qt_6_0_2_GCC_64bit-Debug/CMakeFiles/3.19.2/CMakeSystem.cmake \
+	/home/user/Численные\ методы/spline/spline/CMakeLists.txt \
+	/home/user/Qt/Tools/CMake/bin/cmake

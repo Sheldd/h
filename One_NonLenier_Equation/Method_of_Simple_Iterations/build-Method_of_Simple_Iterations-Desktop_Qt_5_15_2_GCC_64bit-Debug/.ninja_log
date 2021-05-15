@@ -1,0 +1,9 @@
+# ninja log v5
+1	29	1620838630008200417	Method_of_Simple_Iterations_autogen/timestamp	ba2b006392ae1289
+29	58	1620838630036200739	CMakeFiles/Method_of_Simple_Iterations.dir/Method_of_Simple_Iterations_autogen/mocs_compilation.cpp.o	d5f4e353217c659
+29	1547	1620838631528217941	CMakeFiles/Method_of_Simple_Iterations.dir/main.cpp.o	71a6fced552fba89
+1547	1729	1620838631708220016	Method_of_Simple_Iterations	658d6c76e30b3209
+1	1188	1620838681772797346	CMakeFiles/Method_of_Simple_Iterations.dir/main.cpp.o	71a6fced552fba89
+1188	1362	1620838681944799329	Method_of_Simple_Iterations	658d6c76e30b3209
+1	1110	1620838694428943336	CMakeFiles/Method_of_Simple_Iterations.dir/main.cpp.o	71a6fced552fba89
+1110	1282	1620838694596945275	Method_of_Simple_Iterations	658d6c76e30b3209

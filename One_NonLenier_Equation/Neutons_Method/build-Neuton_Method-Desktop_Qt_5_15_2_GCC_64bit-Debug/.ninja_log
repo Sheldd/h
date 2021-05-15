@@ -1,0 +1,5 @@
+# ninja log v5
+0	44	1620837503671395835	Neuton_Method_autogen/timestamp	1404669a2536f3b7
+46	127	1620837503751396718	CMakeFiles/Neuton_Method.dir/Neuton_Method_autogen/mocs_compilation.cpp.o	84715ea6ba3cc035
+44	1688	1620837505315413990	CMakeFiles/Neuton_Method.dir/main.cpp.o	92b33a191bc40343
+1689	1861	1620837505487415891	Neuton_Method	641e7b644e62f11f

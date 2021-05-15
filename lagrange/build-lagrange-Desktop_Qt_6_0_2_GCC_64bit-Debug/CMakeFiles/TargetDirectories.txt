@@ -1,0 +1,5 @@
+/home/user/Численные методы/lagrange/build-lagrange-Desktop_Qt_6_0_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/user/Численные методы/lagrange/build-lagrange-Desktop_Qt_6_0_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/user/Численные методы/lagrange/build-lagrange-Desktop_Qt_6_0_2_GCC_64bit-Debug/CMakeFiles/lagrange.dir
+/home/user/Численные методы/lagrange/build-lagrange-Desktop_Qt_6_0_2_GCC_64bit-Debug/CMakeFiles/lagrange_autogen_timestamp_deps.dir
+/home/user/Численные методы/lagrange/build-lagrange-Desktop_Qt_6_0_2_GCC_64bit-Debug/CMakeFiles/lagrange_autogen.dir

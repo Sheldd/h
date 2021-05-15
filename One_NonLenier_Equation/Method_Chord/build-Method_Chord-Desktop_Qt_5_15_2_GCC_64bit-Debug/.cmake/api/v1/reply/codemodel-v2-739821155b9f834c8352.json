@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Method_Chord",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_Chord::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_Chord-Debug-553354aa559e451a264f.json",
+					"name" : "Method_Chord",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_Chord_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_Chord_autogen-Debug-f70af0be03ccca265224.json",
+					"name" : "Method_Chord_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_Chord_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_Chord_autogen_timestamp_deps-Debug-21731685c0b082734b17.json",
+					"name" : "Method_Chord_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/Численные методы/One_NonLenier_Equation/Method_Chord/build-Method_Chord-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/user/Численные методы/One_NonLenier_Equation/Method_Chord/Method_Chord"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

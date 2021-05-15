@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "System_of_NonLinear_Equations",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "System_of_NonLinear_Equations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-System_of_NonLinear_Equations-Debug-da8cbbcb391a0b1596f1.json",
+					"name" : "System_of_NonLinear_Equations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "System_of_NonLinear_Equations_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-System_of_NonLinear_Equations_autogen-Debug-c424fe96dfd1652fa475.json",
+					"name" : "System_of_NonLinear_Equations_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "System_of_NonLinear_Equations_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-System_of_NonLinear_Equations_autogen_timestamp_deps-Debug-4b93d471ef99638d2127.json",
+					"name" : "System_of_NonLinear_Equations_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/Численные методы/System_NonLenier_Equations/build-System_of_NonLinear_Equations-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/user/Численные методы/System_NonLenier_Equations/System_of_NonLinear_Equations"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

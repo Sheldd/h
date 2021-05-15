@@ -1,0 +1,5 @@
+/home/user/Численные методы/Method_of_Min_Square/build-Method_of_Min_Square-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/user/Численные методы/Method_of_Min_Square/build-Method_of_Min_Square-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/user/Численные методы/Method_of_Min_Square/build-Method_of_Min_Square-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Method_of_Min_Square.dir
+/home/user/Численные методы/Method_of_Min_Square/build-Method_of_Min_Square-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Method_of_Min_Square_autogen_timestamp_deps.dir
+/home/user/Численные методы/Method_of_Min_Square/build-Method_of_Min_Square-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Method_of_Min_Square_autogen.dir

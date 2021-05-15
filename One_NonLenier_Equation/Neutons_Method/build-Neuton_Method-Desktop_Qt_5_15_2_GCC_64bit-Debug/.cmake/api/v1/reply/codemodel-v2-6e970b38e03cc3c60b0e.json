@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Neuton_Method",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Neuton_Method::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Neuton_Method-Debug-988bb52dcfaf29268e0e.json",
+					"name" : "Neuton_Method",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Neuton_Method_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Neuton_Method_autogen-Debug-b56106154ad924845d14.json",
+					"name" : "Neuton_Method_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Neuton_Method_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Neuton_Method_autogen_timestamp_deps-Debug-e3871ce35bd6af359e3d.json",
+					"name" : "Neuton_Method_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/Численные методы/One_NonLenier_Equation/Neutons_Method/build-Neuton_Method-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/user/Численные методы/One_NonLenier_Equation/Neutons_Method/Neuton_Method"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

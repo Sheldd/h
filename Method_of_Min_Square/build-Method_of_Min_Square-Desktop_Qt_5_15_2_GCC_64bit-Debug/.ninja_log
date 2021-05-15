@@ -1,0 +1,12 @@
+# ninja log v5
+0	49	1620827795722075914	Method_of_Min_Square_autogen/timestamp	8d622e5907a11401
+49	146	1620827795818076727	CMakeFiles/Method_of_Min_Square.dir/Method_of_Min_Square_autogen/mocs_compilation.cpp.o	6774a6a5b4fe0e31
+59	1174	1620827796846085440	CMakeFiles/Method_of_Min_Square.dir/Matrix.cpp.o	4dd055bd4b9ef1f6
+58	2039	1620827797710092767	CMakeFiles/Method_of_Min_Square.dir/main.cpp.o	5ebad16e2dbb1ef5
+2039	2262	1620827797934094667	Method_of_Min_Square	59af89483c8c34ea
+1	1208	1620827853782574772	CMakeFiles/Method_of_Min_Square.dir/main.cpp.o	5ebad16e2dbb1ef5
+1208	1435	1620827854010576758	Method_of_Min_Square	59af89483c8c34ea
+2	1202	1620827955575479511	CMakeFiles/Method_of_Min_Square.dir/main.cpp.o	5ebad16e2dbb1ef5
+1202	1422	1620827955795481504	Method_of_Min_Square	59af89483c8c34ea
+1	1213	1620828015232025192	CMakeFiles/Method_of_Min_Square.dir/main.cpp.o	5ebad16e2dbb1ef5
+1213	1379	1620828015396026706	Method_of_Min_Square	59af89483c8c34ea

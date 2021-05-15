@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Method_of_Min_Square",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_of_Min_Square::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_of_Min_Square-Debug-2546864daadbfe438e8a.json",
+					"name" : "Method_of_Min_Square",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_of_Min_Square_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_of_Min_Square_autogen-Debug-661975a47a8873f3109c.json",
+					"name" : "Method_of_Min_Square_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Method_of_Min_Square_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Method_of_Min_Square_autogen_timestamp_deps-Debug-42e4d897d625be718bb6.json",
+					"name" : "Method_of_Min_Square_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/Численные методы/Method_of_Min_Square/build-Method_of_Min_Square-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/user/Численные методы/Method_of_Min_Square/Method_of_Min_Square"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
